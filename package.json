@@ -1,0 +1,24 @@
+{
+  "name": "econf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "array-flat-polyfill": "^1.0.1",
+    "date-fns": "^2.9.0",
+    "dynalite": "^3.1.5",
+    "dynamoose": "^1.11.1",
+    "es7-object-polyfill": "^1.0.1",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.0",
+    "pareto-frontier": "^1.1.1",
+    "path": "^0.12.7",
+    "randomstring": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
