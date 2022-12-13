@@ -48,7 +48,7 @@
   "homepage": "http://demos.creative-tim.com/argon-dashboard/index.html",
   "dependencies": {
     "browserify-shim": "^3.8.14",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "milsymbol": "^2.0.0",
     "requirejs": "^2.3.6",
     "save": "^2.4.0",
